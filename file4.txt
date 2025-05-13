@@ -1,0 +1,7 @@
+2. **Access the API**
+   Open a web browser and navigate to `http://localhost:8080`.
+
+3. **View Analysis Results**
+   The API will return a JSON object containing the analysis results.
+
+## Directory Structure
