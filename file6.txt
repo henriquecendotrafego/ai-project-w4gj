@@ -1,0 +1,23 @@
+3. **Create Basic Project Structure**
+   The project structure is already defined in the `README.md`.
+
+4. **Implement Main Functionality**
+   The main functionality is implemented in the `main.go` file.
+
+5. **Test and Debug**
+   Use tools like `curl` or a REST client to test the API endpoints.
+
+6. **Finalize and Optimize**
+   Review the code for any errors or improvements needed.
+
+## Environment Requirements
+
+- Node.js
+- Git
+- Editor de código
+- Navegador moderno
+
+## References
+
+- [Go Restful Documentation](https://github.com/emicklei/go-restful)
+- [Decimal Library Documentation](https://github.com/shopspring/decimal)
